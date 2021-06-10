@@ -1,0 +1,34 @@
+Conditional Execution
+    Boolean expression
+        Ask a question and produce a Yes or No result
+        which we use to control
+    Boolean expressions using comparision operators evaluate to True / False or Yes / No
+    Comparison operators look at variables but do not change the variables
+
+    < Less than
+    <= less than or Equal to
+    == Equal to
+    >= Greater than or Equal to
+    > Greater than
+    != Not Equal
+
+Indentation
+    Increase indent after an if statement or for statement (after :)
+    Maintain indent to indicate the scope of the block (Which lines are affected by the if/for)
+    Reduce indent back to the level of the if statement or for statement to indicate the end of the block
+    Blank lines are ignored - They do not affect Indentation
+    comments on the line by themselves are ignored with regard to Indentation
+
+    Warning: Turn off Tabs
+    Atom automatically uses spaces for files with ".py" extetion (nice!)
+    Most text editors can tunr tabs into spaces - makes sure to enable this feature
+    
+    Python cares a *lot* about how far a line is indented. If you mix tabs and spaces, you may get indentation errors
+
+Conditional structures
+    Multi-Way
+    Try and Except Structure
+        You surround a dangerous section of code with try and Except
+        If the code in the try works - the except is skipped
+        If the code in the try fails - it jumps to the except section
+        
