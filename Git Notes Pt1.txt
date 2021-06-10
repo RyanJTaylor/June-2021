@@ -19,5 +19,4 @@ pull -> Download changes from remote repo to your local machine, the oposite of 
 
 ## Subheader
 
-Learning stuff
- 
+Marcuck sucks
